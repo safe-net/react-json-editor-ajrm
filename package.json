@@ -10,7 +10,7 @@
   },
   "main": "index.js",
   "files": [
-    "dist"
+    "*"
   ],
   "sideEffects": false,
   "scripts": {
